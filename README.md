@@ -28,3 +28,30 @@ For the Tic-Tac-Toe game, I implemented the game logic, including the handling o
 
 In this round, Player X wins by forming a line vertically in the first column.
 
+# Banking App Overview
+
+**1. Banking App**
+
+![LoginPage](https://github.com/user-attachments/assets/82808224-c231-473a-8e4c-9bd5140828bf)
+
+**Description**: The Banking App is a secure web application designed to manage user accounts, handle transactions, and provide role-based access. The project was developed as a group effort, with each member contributing specific functionalities.
+
+**My Contributions**:
+  - **Frontend Development**: I developed the transaction history page, which displays all transaction records, and the balances page, which shows the current balances across different accounts.
+  - **Data Fetching and Session Management**: Implemented data fetching from the backend and handled session management to ensure secure and accurate data retrieval.
+
+**Key Features**:
+  - Role-based access with Administrator, Employee, and Customer roles
+  - Secure transaction management including deposits, withdrawals, and transfers
+  - Comprehensive account management with detailed transaction history
+
+
+## How to Run the Projects
+
+### Prerequisites
+- Ensure you have Node.js, npm, and other necessary dependencies installed.
+- Clone the repository to your local machine.
+
+### Install Dependencies using cmd: npm install
+### Start the development server using cmd: npm start
+### Open your browser and go to `http://localhost:3000` to view the app.
